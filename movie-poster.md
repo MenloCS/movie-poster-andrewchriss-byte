@@ -89,20 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  A movie poster for an emergency room thriller titled "The P.I.T.T". A character collage in dark cool tones, featuring a frantic doctor in blue scrubs rushing a patient on a gurney. Accents of stark white with subtle blood stains. The mood is controlled chaos and suspenseful. No one is smiling. The body on the gurney's hair flows of the edge of the gurney. with more red lighting of emergency services vehicles. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It looked very good
+- **What didn't work:** The people were to far spaced apart.
+- **What I'll change for next attempt:** Make the people closer together
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  create A movie poster for an emergency room thriller titled "The P.I.T.T". A character collage in dark cool tones, featuring a frantic doctor in blue scrubs rushing a patient on a gurney. Accents of stark white with subtle blood stains. The mood is controlled chaos and suspenseful. No one is smiling. The body on the gurney's hair flows of the edge of the gurney. with more red lighting of emergency services vehicles.   also make the people closer together
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  It was very good
+- **What didn't work:**  It was very good
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+the last attempt or the first attempt.
 ---
 
 ## Step 4: Photoshop Modifications
