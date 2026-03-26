@@ -133,22 +133,22 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+The general idea was the same, but a few details, such as the hair of the body on the gurney.
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+putting more red light in the image.
 
 **What would you do differently next time?**  
-
+use the Photoshop thing that could have helped.
 
 ---
 
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [x] This completed `movie-poster-project.md` file  
+- [x] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [x] At least 5 commits showing your progress  
 
 ---
 
