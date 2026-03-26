@@ -68,18 +68,18 @@ A doctor who is rushing someone to something
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Give me a movie poster for an emergency room thriller with the words "The P.I.T.T"
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It looked very good
+- **What didn't work:** Maybe it was a little jumbled, but besides that, it was perfect.
+- **What I'll change for next attempt:**  Try to make the main character look a little clearer
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Give me a movie poster for an emergency room thriller with the words "The P.I.T.T" with the main character in the center a little clearer
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  It did what I wanted 
+- **What didn't work:**  It wasn't red
+- **What I'll change for next attempt:**  Make more red coloring
 
 ---
 
